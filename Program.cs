@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
+            //este es un comentario
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
